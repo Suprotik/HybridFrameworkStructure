@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="demoHybridFramework_v1">
+	<test name="tc1">
+		<classes>
+			<class name="com.demoHFramework.testCase.TC_Login_001" />
+		</classes>
+	</test>
+	<test name="tc2">
+		<classes>
+			<class name="com.demoHFramework.testCase.TC_Login_002" />
+		</classes>
+	</test>
+</suite>

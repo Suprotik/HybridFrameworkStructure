@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demoHybridFramework_v1" duration-ms="30608" started-at="2020-02-18T18:28:04Z" finished-at="2020-02-18T18:28:34Z">
+    <groups>
+    </groups>
+    <test name="tc1" duration-ms="19590" started-at="2020-02-18T18:28:04Z" finished-at="2020-02-18T18:28:23Z">
+      <class name="com.demoHFramework.testCase.TC_Login_001">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="reportSetup" is-config="true" duration-ms="121" started-at="2020-02-18T23:58:04Z" finished-at="2020-02-18T23:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="setup" is-config="true" duration-ms="9672" started-at="2020-02-18T23:58:04Z" finished-at="2020-02-18T23:58:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="loginTest" duration-ms="698" started-at="2020-02-18T23:58:14Z" finished-at="2020-02-18T23:58:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="Exit()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="Exit" is-config="true" duration-ms="618" started-at="2020-02-18T23:58:14Z" finished-at="2020-02-18T23:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="setup" is-config="true" duration-ms="7552" started-at="2020-02-18T23:58:15Z" finished-at="2020-02-18T23:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest2()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="loginTest2" duration-ms="2" started-at="2020-02-18T23:58:22Z" finished-at="2020-02-18T23:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest2 -->
+        <test-method status="PASS" signature="Exit()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="Exit" is-config="true" duration-ms="628" started-at="2020-02-18T23:58:22Z" finished-at="2020-02-18T23:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+        <test-method status="PASS" signature="reportend()[pri:0, instance:com.demoHFramework.testCase.TC_Login_001@13deb50e]" name="reportend" is-config="true" duration-ms="283" started-at="2020-02-18T23:58:23Z" finished-at="2020-02-18T23:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportend -->
+      </class> <!-- com.demoHFramework.testCase.TC_Login_001 -->
+    </test> <!-- tc1 -->
+    <test name="tc2" duration-ms="11001" started-at="2020-02-18T18:28:23Z" finished-at="2020-02-18T18:28:34Z">
+      <class name="com.demoHFramework.testCase.TC_Login_002">
+        <test-method status="PASS" signature="LogSetup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="LogSetup" is-config="true" duration-ms="52" started-at="2020-02-18T23:58:04Z" finished-at="2020-02-18T23:58:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogSetup -->
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="reportSetup" is-config="true" duration-ms="2" started-at="2020-02-18T23:58:23Z" finished-at="2020-02-18T23:58:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="setup" is-config="true" duration-ms="8963" started-at="2020-02-18T23:58:23Z" finished-at="2020-02-18T23:58:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest111()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="loginTest111" duration-ms="738" started-at="2020-02-18T23:58:32Z" finished-at="2020-02-18T23:58:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest111 -->
+        <test-method status="PASS" signature="Exit()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="Exit" is-config="true" duration-ms="1241" started-at="2020-02-18T23:58:33Z" finished-at="2020-02-18T23:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Exit -->
+        <test-method status="PASS" signature="reportend()[pri:0, instance:com.demoHFramework.testCase.TC_Login_002@1e397ed7]" name="reportend" is-config="true" duration-ms="55" started-at="2020-02-18T23:58:34Z" finished-at="2020-02-18T23:58:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportend -->
+      </class> <!-- com.demoHFramework.testCase.TC_Login_002 -->
+    </test> <!-- tc2 -->
+  </suite> <!-- demoHybridFramework_v1 -->
+</testng-results>
